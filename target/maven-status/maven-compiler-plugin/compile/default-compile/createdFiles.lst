@@ -1,0 +1,6 @@
+net\mannjaiswal\sms\StudentManagementSystemApplication.class
+net\mannjaiswal\sms\controller\StudentController.class
+net\mannjaiswal\sms\service\StudentService.class
+net\mannjaiswal\sms\repository\StudentRepository.class
+net\mannjaiswal\sms\service\impl\StudentServiceImpl.class
+net\mannjaiswal\sms\entity\Student.class
